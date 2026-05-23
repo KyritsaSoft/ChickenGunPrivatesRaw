@@ -1,0 +1,14 @@
+{
+  main
+  {
+    servers
+     { 
+      CG1.2.6
+      Name:Chicken Gun 1.2.6
+      PhotonServer:630fd411-f641-452d-acd4-656f03d101d7,
+      CG1.0.3
+      Name:Chicken Gun 1.0.3
+      PhotonServer:e0af2af3-c725-4225-bb99-501106e09870
+      }
+  }
+}
