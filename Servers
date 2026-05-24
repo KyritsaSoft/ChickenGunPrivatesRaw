@@ -5,16 +5,24 @@
      { 
       CG1.2.6
       Name:Chicken Gun 1.2.6
+      Version:16
       PhotonServer:630fd411-f641-452d-acd4-656f03d101d7,
       CG1.0.3
       Name:Chicken Gun 1.0.3
+      Version:16
       PhotonServer:e0af2af3-c725-4225-bb99-501106e09870,
       Soup Gun
       Name:Soup Gun
+      Version:16
       PhotonServer:893ad6fa-2c54-4b17-bf43-eca208a39e32,
       Zip Gun
       Name:Zip Gun
-      PhotonServer:bc9652f1-7be1-4e16-a856-197d77003cd1
+      Version:16
+      PhotonServer:bc9652f1-7be1-4e16-a856-197d77003cd1,
+      Classic Gun Legacy 
+      Name:Classic Gun Legacy
+      Version:50
+      PhotonServer:630fd411-f641-452d-acd4-656f03d101d7
       }
   }
 }
