@@ -22,7 +22,11 @@
       Classic Gun Legacy 
       Name:Classic Gun Legacy
       Version:50
-      PhotonServer:630fd411-f641-452d-acd4-656f03d101d7
+      PhotonServer:630fd411-f641-452d-acd4-656f03d101d7,
+      Cheat Server
+      Name:Cheat Server
+      Version:10000
+      PhotonServer:e0af2af3-c725-4225-bb99-501106e09870
       }
   }
 }
