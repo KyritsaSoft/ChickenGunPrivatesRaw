@@ -22,6 +22,10 @@
       Chicken Red
       Name:Chicken Red
       Version:24
+      PhotonServer:630fd411-f641-452d-acd4-656f03d101d7,
+      CG1.51
+      Name:Chicken Gun 1.5.1
+      Version:23
       PhotonServer:630fd411-f641-452d-acd4-656f03d101d7
       }
   }
