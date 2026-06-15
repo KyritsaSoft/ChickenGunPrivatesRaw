@@ -26,7 +26,11 @@
       CG1.51
       Name:Chicken Gun 1.5.1
       Version:23
-      PhotonServer:630fd411-f641-452d-acd4-656f03d101d7
+      PhotonServer:630fd411-f641-452d-acd4-656f03d101d7,
+      CGPNikita107R
+      Name:Chicken Gun Private
+      Version:16
+      PhotonServer:d31a8556-cfdf-4ef8-a684-db520762264c
       }
   }
 }
